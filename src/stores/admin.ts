@@ -62,12 +62,12 @@ export const useAdminStore = defineStore('admin', () => {
 
   // Ürün işlemleri
   async function addProduct(product: Omit<Product, 'id'>, imageFile?: File | null) {
-    const newProduct = await api.createProduct(product, imageFile)
+    const newProduct = await api.createProduct(product, imageFile ?? null)
     products.value.push(newProduct)
   }
 
   async function updateProduct(product: Product, imageFile?: File | null) {
-    const updatedProduct = await api.updateProduct(product, imageFile)
+    const updatedProduct = await api.updateProduct(product, imageFile ?? null)
     const index = products.value.findIndex(p => p.id === product.id)
     if (index !== -1) {
       products.value[index] = updatedProduct
