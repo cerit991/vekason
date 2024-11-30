@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 150000,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 150000,
+    "status": "rejected",
+    "createdAt": "2024-11-16T05:34:25.290Z",
+    "customerInfo": {
+      "name": "qqqqqqq",
+      "company": "qqqqqq",
+      "phone": "qqqqqq",
+      "notes": "qqqqqq"
+    }
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 5
+      }
+    ],
+    "total": 875,
+    "status": "approved",
+    "createdAt": "2024-11-17T13:56:59.773Z",
+    "customerInfo": {
+      "name": "halil",
+      "company": "youchill",
+      "phone": "5363177100",
+      "notes": "asdasdasdasasd"
+    }
+  },
+  {
+    "id": 3,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "approved",
+    "createdAt": "2024-11-30T15:43:00.524Z",
+    "customerInfo": {
+      "name": "halilcerit",
+      "company": "youchill lounge",
+      "phone": "5363177100",
+      "notes": "adasdasdasd"
+    }
+  },
+  {
+    "id": 4,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T15:52:26.137Z",
+    "customerInfo": {
+      "name": "qweqwe",
+      "company": "qweqweqw",
+      "phone": "121312312",
+      "notes": "123123123"
+    }
+  },
+  {
+    "id": 5,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T15:53:24.280Z",
+    "customerInfo": {
+      "name": "asdasd",
+      "company": "asdasdasd",
+      "phone": "123123",
+      "notes": "qweqweqwe"
+    }
+  },
+  {
+    "id": 6,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T15:53:53.127Z",
+    "customerInfo": {
+      "name": "qweqweqw",
+      "company": "asdasdasd",
+      "phone": "12312312312",
+      "notes": "12312312"
+    }
+  },
+  {
+    "id": 7,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T15:55:55.670Z",
+    "customerInfo": {
+      "name": "kakaka",
+      "company": "kakakak",
+      "phone": "00000",
+      "notes": "000000"
+    }
+  },
+  {
+    "id": 8,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 2
+      }
+    ],
+    "total": 350,
+    "status": "pending",
+    "createdAt": "2024-11-30T15:57:58.510Z",
+    "customerInfo": {
+      "name": "123123",
+      "company": "qweqweqw",
+      "phone": "123123123",
+      "notes": "qweqwe"
+    }
+  },
+  {
+    "id": 9,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 4
+      }
+    ],
+    "total": 700,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:00:02.283Z",
+    "customerInfo": {
+      "name": "123",
+      "company": "123",
+      "phone": "123",
+      "notes": "123123"
+    }
+  },
+  {
+    "id": 10,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:01:26.661Z",
+    "customerInfo": {
+      "name": "qqqq",
+      "company": "qqqq",
+      "phone": "qqqq",
+      "notes": "qqqq"
+    }
+  },
+  {
+    "id": 11,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:02:44.325Z",
+    "customerInfo": {
+      "name": "qqqq",
+      "company": "qq",
+      "phone": "qqq",
+      "notes": "qqqq"
+    }
+  },
+  {
+    "id": 12,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:04:46.220Z",
+    "customerInfo": {
+      "name": "qweqwe",
+      "company": "qweqweqwe",
+      "phone": "qweqweqwe",
+      "notes": "qweqweqw"
+    }
+  },
+  {
+    "id": 13,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:06:16.908Z",
+    "customerInfo": {
+      "name": "qweqwe",
+      "company": "qweqweqw",
+      "phone": "eqweqwe",
+      "notes": "qweqeqwe"
+    }
+  },
+  {
+    "id": 14,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:08:31.091Z",
+    "customerInfo": {
+      "name": "qweqwe",
+      "company": "qweqweqw",
+      "phone": "eqweqweq",
+      "notes": "qweqweqw"
+    }
+  },
+  {
+    "id": 15,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:11:09.862Z",
+    "customerInfo": {
+      "name": "qweqwe",
+      "company": "qweqweqw",
+      "phone": "eqweqwe",
+      "notes": "qweqweqw"
+    }
+  },
+  {
+    "id": 16,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 175,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:13:44.085Z",
+    "customerInfo": {
+      "name": "qweqweqw",
+      "company": "qweqweqw",
+      "phone": "qweqweqwe",
+      "notes": ""
+    }
+  },
+  {
+    "id": 17,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 4
+      }
+    ],
+    "total": 700,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:15:23.643Z",
+    "customerInfo": {
+      "name": "haliil",
+      "company": "youchill",
+      "phone": "5363177100",
+      "notes": ""
+    }
+  },
+  {
+    "id": 18,
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "name": "qqqqq",
+          "price": 175,
+          "category": "kategori",
+          "brand": "marka",
+          "image": "/uploads/1731735250700-309847790.png",
+          "description": "qqqqqqqq"
+        },
+        "quantity": 10
+      }
+    ],
+    "total": 1750,
+    "status": "pending",
+    "createdAt": "2024-11-30T16:16:20.748Z",
+    "customerInfo": {
+      "name": "halil",
+      "company": "youchill",
+      "phone": "5363177100",
+      "notes": ".....0....."
+    }
+  }
+]
